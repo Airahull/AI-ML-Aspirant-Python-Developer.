@@ -1,5 +1,5 @@
 # AI-ML-Aspirant-Python-Developer.
-A journey to AI/ML expert .........................
+A journey to AI/ML Expert
 # 🚀 AI-FastAPI-Core: Professional Model API Template
 
 This repository serves as a **production-ready boilerplate** for deploying Machine Learning and AI models using **FastAPI**. It is designed for high-performance, asynchronous data processing with strict validation.
