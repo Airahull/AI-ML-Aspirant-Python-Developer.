@@ -14,7 +14,7 @@ def welcome():
 
 @app.post("/predict")
 def predict_placement(data: StudentData):
-    # This is where your AI 'Math' will go later
+    # This is where your AI 'Math' will go later this all use a swagger ui we need to add /docs in our link for ui
     if data.gpa > 8.0 and data.projects_completed > 5:
         result = "High Chance of 40 LPA"
     else:
