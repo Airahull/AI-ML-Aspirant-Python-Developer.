@@ -479,8 +479,6 @@ arr =[5,4,3,2,1,6]
 print(brk(arr))
 '''
 '''
-
-
 def mergesort(arr):
     if len(arr)<=1:
         return arr
@@ -508,3 +506,17 @@ def merge(left,right):
 arr =[5,4,3,2,1,6]
 print(mergesort(arr))
 '''
+# optimal solutiion 
+def mostrepp(s):
+    freq={}
+    for ch in s:
+        freq[ch]=freq.get(ch,0)+1
+    maxvalue=0
+    char =None
+    for key,value in freq.items():
+        if value > maxvalue:
+            maxvalue =value
+            char=key
+    return (char,maxvalue)  
+s = "aabbbcddddde"
+print(mostrepp(s))
