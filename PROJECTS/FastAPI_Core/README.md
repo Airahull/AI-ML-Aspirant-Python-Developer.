@@ -27,4 +27,4 @@ The core follows a modular structure to separate **API Routes** from **ML Logic*
 1. **Clone the Repo:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/AI-FastAPI-Core.git](https://github.com/YOUR_USERNAME/AI-FastAPI-Core.git)
-   cd AI-FastAPI-Core
+   cd AI-FastAPI-Core 
