@@ -22,7 +22,7 @@ The core follows a modular structure to separate **API Routes** from **ML Logic*
 
 ---
 
-## 🚦 How to Run Locally
+# 🚦 How to Run Locally
 
 1. **Clone the Repo:**
    ```bash
