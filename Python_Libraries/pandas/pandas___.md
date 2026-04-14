@@ -1,4 +1,4 @@
-'''
+
 📊 What is Pandas?
 
 Pandas is a powerful Python library used for:
@@ -39,4 +39,4 @@ SQL databases
 1. Series
 1D data (like a column)
 import pandas as pd
-data = pd.Series([10, 20, 30])'''
+data = pd.Series([10, 20, 30]).
