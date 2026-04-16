@@ -69,7 +69,6 @@ def maximum(arr,k):
     res.append(max(ele))
     for i in range(k,n):
         ele = arr[(i-k)+1:i+1]
-
         res.append(max(ele))
     return res
 arr=[1,3,-1,-3,5,3,6,7]
