@@ -22,7 +22,6 @@ Fix wrong data
 Format data properly
 
 👉 In real life:
-
 70–80% work in AI/ML = Data Cleaning
 
 3. Easy Data Analysis.
