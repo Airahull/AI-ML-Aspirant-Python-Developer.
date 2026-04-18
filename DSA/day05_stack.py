@@ -197,7 +197,7 @@ def vp(s1):
       stack.append(ch)
   return not stack
 
-#monotonic incresing 
+#monotonic incresing very important stack
 def nexgret(arr):
   stack =[]
   res=[-1]*len(arr)
