@@ -197,7 +197,8 @@ def vp(s1):
       stack.append(ch)
   return not stack
 
-#monotonic incresing very important stack
+#monotonic incresing very important stack.
+# it is used in many problems like next greater element , stock span problem , largest rectangle in histogram etc
 def nexgret(arr):
   stack =[]
   res=[-1]*len(arr)
