@@ -159,7 +159,7 @@ class linkedlist:
                 curr=curr.next
         return self.head
     
-#remove duplicate from unsorted list --------------------------------------------------------------------------------------------------------------
+#remove duplicate from unsorted list imp --------------------------------------------------------------------------------------------------------------
     def remove_dup_unsorted(self):
         curr = self.head
         prev =None
