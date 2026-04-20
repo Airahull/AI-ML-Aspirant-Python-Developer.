@@ -261,7 +261,7 @@ What is NumPy?
 What is ndarray?
 Why is NumPy faster than lists?
 What is broadcasting?
-🔹 Intermediate
+🔹 Intermediate.
 Difference between:
 list vs ndarray
 view vs copy
