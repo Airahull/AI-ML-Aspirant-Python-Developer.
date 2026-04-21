@@ -1,24 +1,24 @@
 #important questions on strings..........................................................
 '''
-1.Reverse String
+1.Reverse String.
 
-2.Check palindrome
+2.Check palindrome.
 
-3.Count vowels
+3.Count vowels.
 
-4.Remove duplicates
+4.Remove duplicates.
 
-5.Longest substring without repeating characters
+5.Longest substring without repeating characters.
 
-6.Check anagram
+6.Check anagram.
 
-7.First non-repeating character
+7.First non-repeating character.
 
-8.Compress string
+8.Compress string.
 
-9.Word frequency counter
+9.Word frequency counter.
 
-10.Rotate string'''
+10.Rotate string.'''
 
 #1.Reverse String.......................................
 
