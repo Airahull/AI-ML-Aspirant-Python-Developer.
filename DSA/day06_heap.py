@@ -27,7 +27,7 @@ heapq.heapify(heap)
 print(-heapq.heappop(heap))
 
 # find the kth largest elemenet in an array 
-# by using min heap  very important-------------------------------------------------------------------------------------------------------------------
+# by using min heap  very important....-------------------------------------------------------------------------------------------------------------------
 import heapq
 def kthlarge(arr,k):
     heap =[]
