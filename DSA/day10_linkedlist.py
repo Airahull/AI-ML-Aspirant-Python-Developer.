@@ -98,7 +98,7 @@ class linkedlist:
             curr =nextnode       #move curr pointer forword 
         self.head = prev # change head position 
 
-# for finding middle node by using two pointer slow and fast pointer -----------------------------------------------------------------------
+# for finding middle node by using two pointer slow and fast pointer (this is basically pointer concept) -----------------------------------------------------------------------
     def middle(self):
         fast = self.head
         slow =self.head
