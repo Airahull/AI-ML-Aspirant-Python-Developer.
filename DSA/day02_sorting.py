@@ -9,9 +9,8 @@ def linearsearch(lst,target):
     else:
             print('target not found in your list ')
 
-
 #binary search.................................................................
-#it always apply on a sorted list
+#it always apply on a sorted list imp .....
 def binarysearch(arr,target):
      start = 0
      end = len(arr)-1
