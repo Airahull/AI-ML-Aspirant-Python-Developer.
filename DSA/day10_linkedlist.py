@@ -104,8 +104,8 @@ class linkedlist:
         slow =self.head
 
         while fast and fast.next :
-            slow = slow.next      # it takes 1 step forword 
-            fast = fast.next.next # it takes 2 step forword 
+            slow = slow.next      # it takes 1 step forword .
+            fast = fast.next.next # it takes 2 step forword .
         return slow.data
     
 #Floyd’s Cycle Detection Algorithm (Best ✅)-------------------------------------------------------------------------------------------------
