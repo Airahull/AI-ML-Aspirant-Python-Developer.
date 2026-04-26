@@ -64,7 +64,7 @@ k=3
 #klarge(arr,k)
 
 # kth frequent element .........................................................
-#heap and hash maps 
+#heap and hash maps ..
 import heapq
 
 def kthfreq(arr,k):
