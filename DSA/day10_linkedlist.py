@@ -108,7 +108,7 @@ class linkedlist:
             fast = fast.next.next # it takes 2 step forword .
         return slow.data
     
-#Floyd’s Cycle Detection Algorithm (Best ✅)-------------------------------------------------------------------------------------------------
+#Floyd’s Cycle Detection Algorithm (Best ✅) very imp question -------------------------------------------------------------------------------------------------
     def cycle(self):
         slow = self.head
         fast =self.head
