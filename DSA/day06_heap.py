@@ -73,7 +73,7 @@ def kthfreq(arr,k):
     for num in arr:
         freq[num]=freq.get(num,0)+1
     for num,occurance in freq.items():
-        heapq.heappush(h,(occurance,num))# in it we write occurance first because python campare thing in lexicographically means in dictonary order means left to right 
+        heapq.heappush(h,(occurance,num))#in it we write occurance first because python campare thing in lexicographically means in dictonary order means left to right 
 
         if len(h) > k:
             heapq.heappop(h)
