@@ -66,7 +66,6 @@ k=3
 # kth frequent element ...........................................................
 #heap and hash maps ..
 import heapq
-
 def kthfreq(arr,k):
     freq ={}
     h=[]
