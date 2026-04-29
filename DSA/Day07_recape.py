@@ -293,7 +293,7 @@ def firstnonrepch(s):
 s='absgbaasx'
 #print(firstnonrepch(s))
 
-#8.mosst rep character..............
+#8.mosst rep character.............. important logic.........................................................................................
 def mstrep(s):
     freq={}
     for ch in s:
