@@ -307,7 +307,7 @@ def mstrep(s):
     return mostrep,char
 s = "aabbbcddddde"
 #print(mstrep(s))
-#--------------------------------------------------------------
+#----------------------------------------------------------------------
 #9.Compress string
 def compress(s):
     res ={}
