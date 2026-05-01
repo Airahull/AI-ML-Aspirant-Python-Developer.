@@ -335,7 +335,7 @@ for key,value in res.items():
         number=key
 print(number,'occure', maxfreq,'times')
 
-#more pythonic way................................................................
+#more pythonic way but not optimal ................................................................
 from collections import Counter
 arr=[1,2,3,4,3,4,5,32,1,2,3,3,3,3]
 k=int(input('how many elements freq you wants to check :'))
@@ -343,6 +343,5 @@ freq =Counter(arr)
 
 occurance=freq.most_common(k)
 print(f'frequency {occurance} occurance ')
-
 
 # freq for kth elements ....................
