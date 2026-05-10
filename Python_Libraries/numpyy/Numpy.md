@@ -235,7 +235,7 @@ Mathematical operations
 Data loaded via Pandas
 Converted to NumPy
 Passed into ML model
-💡 Example Flow
+💡 Example Flow.
 Pandas DataFrame → NumPy array → Model training
 ⚙️ 12. Advanced Concepts (High-Level)
 🔹 Memory Layout
@@ -245,7 +245,7 @@ F-order (column-major)
 Steps taken in memory to move between elements
 🔹 Universal Functions (ufuncs)
 Fast element-wise operations
-💡 Interview Takeaway
+💡 Interview Takeaway.
 
 “Understanding memory layout helps optimize performance.”
 
