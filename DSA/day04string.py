@@ -118,7 +118,7 @@ def nonrepating(s):
     else:
             return -1,None
 s = "aabbcdde"
-#print(nonrepating(s))  
+#print(nonrepating(s)) .. 
 
 
 def nonrep(s):
