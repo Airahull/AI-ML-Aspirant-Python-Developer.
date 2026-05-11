@@ -66,7 +66,7 @@ if sorted(s1) == sorted(s2):
 else:
     print('not anagram ')'''
 
-#9.Word frequency counter.................................................
+#9.Word frequency counter using collection counter.................................................
 from collections import Counter
 s='Non Repeating Character'
 #print(Counter(s))
