@@ -214,8 +214,6 @@ for i in range(l,r+1):
      sum+=arr[i]
 print(sum)
 
-
-
 #function for prefix array .....................................................
 def prefixsum(prefix,l,r):
      if l==0:
