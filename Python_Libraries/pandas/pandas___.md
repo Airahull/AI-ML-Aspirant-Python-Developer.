@@ -29,11 +29,13 @@ Filtering
 Sorting
 Grouping
 Aggregation (sum, mean, etc.)
+
 4. Works with Real Data Files.
 CSV
 Excel
 JSON
 SQL databases
+
 🧠 Core Data Structures in Pandas.
 1. Series
 1D data (like a column)
