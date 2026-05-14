@@ -59,7 +59,6 @@ k = 3
 #4.Sliding Window Maximum (Fixed Size)
 #Task: For every window of size k, find the maximum element.
 #brute force solution 
-
 def maximum(arr,k):
     n=len(arr)
     if k>n:
