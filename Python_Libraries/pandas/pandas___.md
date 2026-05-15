@@ -31,7 +31,7 @@ Grouping
 Aggregation (sum, mean, etc.)
 
 4. Works with Real Data Files.
-CSV
+CSV (commas seperated value)
 Excel
 JSON
 SQL databases
