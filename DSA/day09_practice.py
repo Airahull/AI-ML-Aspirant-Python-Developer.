@@ -443,7 +443,7 @@ def quik(arr):
     start = [num for num in arr if num<pivot]
     mid = [num for num in arr if num == pivot]
     end = [num for num in arr if num > pivot]
-    return quik(start) +mid +quik(end)
+    return quik(start) +mid +quik(end) # in it we are calling the function recursively for start and end part of array and mid part is added in between because it is already sorted as it is equal to pivot element
 
 
 arr= [7,6,5,4,3,2,1]
