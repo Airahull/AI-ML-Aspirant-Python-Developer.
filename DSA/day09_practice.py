@@ -456,7 +456,6 @@ def brk(arr):
     if len(arr)<=1:
         return arr
     mid = len(arr)//2
-
     right = brk(arr[:mid])
     left = brk(arr[mid:])
     return mergsort(left,right)
