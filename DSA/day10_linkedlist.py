@@ -103,6 +103,7 @@ class linkedlist:
         fast = self.head
         slow =self.head
 
+
         while fast and fast.next :
             slow = slow.next      # it takes 1 step forword slow pointer.
             fast = fast.next.next # it takes 2 step forword fast pointer.
