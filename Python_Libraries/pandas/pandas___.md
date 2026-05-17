@@ -32,8 +32,8 @@ Aggregation (sum, mean, etc.)
 
 4. Works with Real Data Files.
 CSV (commas seperated value)
-Excel
-JSON
+Excel.
+JSON.
 SQL databases
 
 🧠 Core Data Structures in Pandas.
