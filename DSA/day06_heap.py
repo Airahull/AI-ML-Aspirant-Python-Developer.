@@ -1,4 +1,4 @@
-#heap 
+#heap  it is used for finding the minimum and maximum element in a list in O(1) time complexity and also for finding the kth largest and kth smallest element in a list in O(nlogk) time complexity and also for finding the median of a list in O(nlogn) time complexity and also for finding the top k frequent element in a list in O(nlogk) time complexity and also for finding the kth largest element in a stream of data in O(logk) time complexity and also for finding the kth smallest element in a stream of data in O(logk) time complexity and also for finding the median of a stream of data in O(logn) time complexity and also for finding the top k frequent element in a stream of data in O(nlogk) time complexity and also for finding the kth largest element in a binary search tree in O(logn) time complexity and also for finding the kth smallest element in a binary search tree in O(logn) time complexity and also for finding the median of a binary search tree in O(n) time complexity and also for finding the top k frequent element in a binary search tree in O(nlogk) time complexity and also for finding the kth largest element in a linked list in O(nlogk) time complexity and also for finding the kth smallest element in a linked list in O(nlogk) time complexity and also for finding the median of a linked list in O(nlogn) time complexity and also for finding the top k frequent element in a linked list in O(nlogk) time complexity and also for finding the kth largest element in a array in O(nlogk) time complexity and also for finding the kth smallest element in a array in O(nlogk) time complexity and also for finding the median of a array in O(nlogn) time complexity and also for finding the top k frequent element in a array in O(nlogk) time complexity .
 #1. min heap (by dafault )
 import heapq
 h=[]
@@ -47,7 +47,6 @@ print(f"your array is :{arr}")
 print(f"sorted array is : {sorted(arr)}") #1.this line is only for understanding purpose 
 k = int(input("enter your kth position to find the element : "))
 #kthlarge(arr,k)
-
 
 #using maxheap------------------------------------------------------------------------------------------------------------------------------------- 
 def klarge(arr,k):
