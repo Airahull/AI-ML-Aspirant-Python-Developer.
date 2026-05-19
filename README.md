@@ -1,30 +1,30 @@
-# AI-ML-Aspirant-Python-Developer.
-A journey to AI/ML Expert.
-# 🚀 AI-FastAPI-Core: Professional Model API Template
+# AI/ML & Backend Development Journey
 
-This repository serves as a **production-ready boilerplate** for deploying Machine Learning and AI models using **FastAPI**. It is designed for high-performance, asynchronous data processing with strict validation.
+This repository documents my journey toward becoming an AI/ML and Backend Developer through consistent learning, DSA practice, and real-world project building.
 
----
+## Tech Stack
+- Python
+- FastAPI
+- NumPy
+- Pandas
+- SQL
+- Scikit-learn
+- Git & GitHub
 
-## 🛠️ Tech Stack
-* **Language:** Python 3.10+
-* **Framework:** FastAPI
-* **Validation:** Pydantic (Data Integrity)
-* **Server:** Uvicorn (ASGI)
+## Current Focus
+- Data Structures & Algorithms
+- Backend Development with FastAPI
+- Machine Learning Fundamentals
+- API Development & Deployment
 
----
+## Repository Structure
+- DSA → LeetCode & NeetCode practice
+- FastAPI Projects → Backend APIs
+- Python Libraries → NumPy & Pandas learning
+- ML Projects → Machine Learning projects
 
-## 🏗️ Architecture
-The core follows a modular structure to separate **API Routes** from **ML Logic**:
-- `app/main.py`: Entry point for the Uvicorn server.
-- `app/schemas.py`: Pydantic models for request/response validation.
-- `app/ml_logic.py`: Placeholder for Model Inference (Scikit-Learn/PyTorch).
-
----
-
-# 🚦 How to Run Locally
-
-1. **Clone the Repo:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/AI-FastAPI-Core.git](https://github.com/YOUR_USERNAME/AI-FastAPI-Core.git)
-   cd AI-FastAPI-Core 
+## Goals
+- Crack AI/Backend Internship
+- Build production-ready projects
+- Strengthen DSA problem-solving
+- Learn deployment and system design
