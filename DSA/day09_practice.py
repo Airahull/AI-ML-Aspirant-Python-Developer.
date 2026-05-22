@@ -507,7 +507,7 @@ print(mergesort(arr))
 
 # optimal solutiion most optimal solution ........................
 def mostrepp(s):
-    freq={}
+    freq={}# it is empty dictonary to store frequency of each character in string s
     for ch in s:
         freq[ch]=freq.get(ch,0)+1
     maxvalue=0
