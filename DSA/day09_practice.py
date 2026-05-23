@@ -511,7 +511,7 @@ def mostrepp(s):
     for ch in s:
         freq[ch]=freq.get(ch,0)+1
     maxvalue=0
-    char =None
+    char =None # none reperesnt -1 
     for key,value in freq.items():
         if value > maxvalue:
             maxvalue =value
