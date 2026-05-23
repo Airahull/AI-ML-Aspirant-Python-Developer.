@@ -10,6 +10,6 @@ def home():
 #dynamic route is basically in which output change according to parameter 
 @app.get("/product/{id}")
 def getproduct(id :int):
-    products=["iphone","redmi","oppo","vivo"]
+    products=["iphone","redmi","oppo","vivo"]#list of products
     return products[id] # id is basically a index number
 
