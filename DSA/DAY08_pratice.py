@@ -404,4 +404,10 @@ print(a==b)
 print(a is b)
 print(type(a))
 
+def sum(n):
+    if n==0:
+        return 0
+    else:
+        return n + sum(n-1)
+
 
