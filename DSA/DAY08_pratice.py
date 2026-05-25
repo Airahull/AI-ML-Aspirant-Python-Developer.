@@ -408,6 +408,7 @@ def sum(n):
     if n==0:
         return 0
     else:
-        return n + sum(n-1)
+
+        return n + sum(n-1)  # this is a recursive function for sum of n natural number and it is also a good question for understanding the concept of recursion and how it works in a problem solving approach.
 
 
