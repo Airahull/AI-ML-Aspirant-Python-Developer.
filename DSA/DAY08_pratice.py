@@ -411,4 +411,4 @@ def sum(n):
 
         return n + sum(n-1)  # this is a recursive function for sum of n natural number and it is also a good question for understanding the concept of recursion and how it works in a problem solving approach.
 
-
+# fast api is a framework for building api in python and it is also a good question for understanding the concept of api and how it works in a problem solving approach.
