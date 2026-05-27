@@ -504,11 +504,12 @@ def merge(left,right):
 arr =[5,4,3,2,1,6]
 print(mergesort(arr))
 '''
+
 # optimal solutiion most optimal solution of most repeting character ........................
 def mostrepp(s):
     freq={}# it is empty dictonary to store frequency of each character in string s
     for ch in s:
-        freq[ch]=freq.get(ch,0)+1
+        freq[ch]=freq.get(ch,0)+1#hash maps 
     maxvalue=0
     char =None # none reperesnt -1 
     for key,value in freq.items():
