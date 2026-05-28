@@ -89,8 +89,7 @@ heapq.heappush(h,25)
 print(h)
 print(heapq.heappop(h))
 
-
-#2.max heap (trick)
+#2.max heap (trick) in python we dont have max heap but we can use min heap to implement max heap by using negative values
 h=[]
 heapq.heappush(h,-20)
 heapq.heappush(h,-10)
