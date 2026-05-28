@@ -129,7 +129,6 @@ print(f"sorted array is : {sorted(arr)}") #1.this line is only for understanding
 k = int(input("enter your kth position to find the element : "))
 #kthlarge(arr,k)
 
-
 #using maxheap------------------------------------------------------------------------------------------------------------------------------------- 
 def klarge(arr,k):
     heap =[ -num for num in arr]
