@@ -160,6 +160,7 @@ def kthfreq(arr,k):
     return [num for occrance,num in h]    
 nums = [1,1,1,2,2,3]
 k = 2
+
 print(kthfreq(nums,k))
 
 
