@@ -5,7 +5,7 @@ app = FastAPI()
 # it is a static route (in which value doesnt change )
 @app.get("/") 
 def home():
-    return {"message ":"welcome to the ecomerce fastapi project"}
+    return {"message ":"welcome to the ecomerce fastapi project"} # it is a simple get request for checking api is working or not
 
 #dynamic route is basically in which output change according to parameter 
 @app.get("/product/{id}")
