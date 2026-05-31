@@ -142,7 +142,7 @@ class linkedlist:
             if fast == slow:
                 break 
         if fast is None or fast.next is None:
-            return None
+            return None # it means return -1 or any value which indicate cycle not found
         
         slow =self.head
         while slow !=fast:
