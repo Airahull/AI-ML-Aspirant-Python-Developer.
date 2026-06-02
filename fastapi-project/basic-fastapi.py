@@ -11,5 +11,5 @@ def home():
 @app.get("/product/{id}")
 def getproduct(id :int):
     products=["iphone","redmi","oppo","vivo"]#list of products
-    return products[id] # id is basically a index number
+    return products[id] # id is basically a index number.
 
