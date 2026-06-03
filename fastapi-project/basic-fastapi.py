@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-# now creating a route in fastapi to get the data from the user and then we will use that data to predict the price of the product
+# now creating a route in fastapi to get the data from the user and then we will use that data to predict the price of the product.
 app = FastAPI()
 # it is a simple get request for checking api is working or not .
 # it is a static route (in which value doesnt change ).
