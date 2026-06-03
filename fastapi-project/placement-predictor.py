@@ -4,7 +4,7 @@ from pydantic import BaseModel
 
 app = FastAPI()
 # This is the main file for your FastAPI application. It defines the API endpoints and the data model for input validation.
-# This is a 'Schema' - it validates the input for your AI
+# This is a 'Schema' - it validates the input for your AI.schema is basically a structure of data that we want to receive from the user and then we will use that data to predict the price of the product.
 class StudentData(BaseModel):
     gpa: float
     projects_completed: int
