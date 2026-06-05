@@ -18,6 +18,7 @@ def predict_placement(data: StudentData):
     if data.gpa > 8.0 and data.projects_completed > 5:
         result = "High Chance of 40 LPA"
     else:
-        result = "Keep Building your Portfolio"
+        result = "Keep Building your Portfolio."
+
     
     return {"prediction": result}
