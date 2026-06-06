@@ -37,8 +37,10 @@ JSON.
 SQL databases
 
 🧠 Core Data Structures in Pandas.
+
 1. Series.
-1D data (like a column)
+1D data (like a column).
+
 import pandas as pd
 data = pd.Series([10, 20, 30])
 .
