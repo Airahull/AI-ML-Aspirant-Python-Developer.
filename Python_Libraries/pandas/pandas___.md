@@ -28,6 +28,7 @@ Format data properly
 Filtering
 Sorting
 Grouping
+
 Aggregation (sum, mean, etc.)
 
 4. Works with Real Data Files.
