@@ -150,6 +150,7 @@ class linkedlist:
             fast = fast.next
         return slow 
 # case 1. remove duplicate from a sorted linkedlist-----------------------------------------------------------------------------------------------------
+   
     def remove_dup_sorted(self):
         curr = self.head
         while curr and curr.next:
@@ -161,6 +162,7 @@ class linkedlist:
         return self.head
     
 #remove duplicate from unsorted list imp --------------------------------------------------------------------------------------------------------------
+   
     def remove_dup_unsorted(self):
         curr = self.head
         prev =None
