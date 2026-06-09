@@ -197,10 +197,13 @@ print("after deleting 20 from linkedlist")
 ll.display()
 print("-------------------------------------------")
 print("head of linkedlist is :",ll.head.data)
+
 print("-------------------------------------------")
 print('mid element of your linked list is',ll.middle())
+
 print("-------------------------------------------")
 ll.remove_dup_sorted()
+
 print("after removing duplicate ")
 ll.display()
 print("-------------------------------------------")
