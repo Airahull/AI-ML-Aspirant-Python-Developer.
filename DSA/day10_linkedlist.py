@@ -186,9 +186,11 @@ ll.insert_end(30)
 ll.insert_begin(5)
 ll.insert_begin(2)
 ll.insert_begin(2)
+
 print("full linkedlist is ")
 ll.display()
 print("-------------------------------------------")
+
 ll.deletee(20)
 
 print("after deleting 20 from linkedlist")
