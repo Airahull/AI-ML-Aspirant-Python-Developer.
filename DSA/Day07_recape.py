@@ -346,5 +346,5 @@ freq =Counter(arr)
 
 occurance=freq.most_common(k)
 print(f'frequency {occurance} occurance ')
-
+#its complexity is O(nlogk) because of sorting in most_common method and space complexity is O(n) because of storing frequency of all elements in dictionary
 # freq for kth elements using heap ........................... top mnc s question ........
