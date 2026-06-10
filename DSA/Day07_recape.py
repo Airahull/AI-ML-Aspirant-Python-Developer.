@@ -340,6 +340,7 @@ print(number,'occure', maxfreq,'times')
 from collections import Counter#importing counter class from collection module to count frequency of elements in array
 
 arr=[1,2,3,4,3,4,5,32,1,2,3,3,3,3]
+
 k=int(input('how many elements freq you wants to check :'))
 freq =Counter(arr)
 
