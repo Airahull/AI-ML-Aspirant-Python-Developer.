@@ -200,6 +200,7 @@ def vp(s1):
 #monotonic incresing very important stack.
 # it is used in many problems like next greater element , stock span problem , largest rectangle in histogram etc
 def nexgret(arr):
+
   stack =[]
   res=[-1]*len(arr)
   for i in range(len(arr)):
@@ -208,5 +209,6 @@ def nexgret(arr):
       res[indx] = arr[i]
     stack.append(i)
   return res
+
 nums = [2, 1, 2, 4, 3]
 print(nexgret(nums))
