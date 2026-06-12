@@ -136,7 +136,6 @@ def klarge(arr,k):
 
     for _ in range(k-1):
         heapq.heappop(heap)
-
     print(-heapq.heappop(heap))
 
 arr=[2,3,4,5,4,5,6,76]
@@ -147,7 +146,6 @@ k=3
 #heap and hash maps 
 
 import heapq
-
 def kthfreq(arr,k):
     freq ={}
     h=[]
