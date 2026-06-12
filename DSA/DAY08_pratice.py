@@ -329,6 +329,7 @@ p=int(input('enter a power:'))
 print(poww(n,p))
 '''
 #check pallindrome 
+
 '''
 def chkpallin(s):
     if len(s) ==1 or len(s)==0:
