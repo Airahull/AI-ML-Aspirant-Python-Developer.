@@ -356,6 +356,7 @@ print(gcd(a,b))
 '''
 # Find the sum of all elements in a list using recursion.
 #imp'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
 '''
 def add(lst):
     if len(lst) ==0 :
@@ -367,6 +368,7 @@ print(add(lst))
 print(lst[1:-1])
 print(lst[1:])
 '''
+
 #Implement linear search on a list using recursion function call itself
 '''
 def linear(lst,target,index =0):
