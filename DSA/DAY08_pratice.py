@@ -319,6 +319,7 @@ print(sumn(n))
 '''
 #power using recursion 
 '''
+
 def poww(n,p):
     if p==1:
         return n
