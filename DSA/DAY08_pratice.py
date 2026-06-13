@@ -344,7 +344,6 @@ chkpallin(s)
 '''
 #GCD greatest comman divisor  bby recursive function eculid is algorithm logic (a,b=b,a%b return a when b=0)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 '''
-
 def gcd(a,b):
     if b==0:
         return a
