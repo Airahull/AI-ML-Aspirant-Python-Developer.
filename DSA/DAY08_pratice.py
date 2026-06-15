@@ -363,7 +363,6 @@ def add(lst):
     return lst[0] + add(lst[1:])
 lst= [1,2,3,4,5,6,7]
 print(add(lst))
-
 print(lst[1:-1])
 print(lst[1:])
 '''
