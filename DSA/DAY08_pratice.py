@@ -367,6 +367,7 @@ print(add(lst))
 print(lst[1:-1])
 print(lst[1:])
 '''
+
 #Implement linear search on a list using recursion function call itself
 '''
 def linear(lst,target,index =0):
