@@ -9,6 +9,7 @@ nr=sorted(arr,reverse = True)
 #  or 
 n=len(arr)
 newarr=sorted(arr)
+
 #print(newarr[n-k])
 
 #best optimal way ........................-------------------------------------------
