@@ -223,4 +223,5 @@ def prefixsum(prefix,l,r):
           return prefix[r]-prefix[l-1]
 
 #----------------------------------------------------------------------------------
-
+for i in range(1,len(arr)): 
+    prefix[i] = prefix[i-1] + arr[i]
