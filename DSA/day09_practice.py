@@ -521,7 +521,6 @@ def mostrepp(s):
     return (char,maxvalue)  
 
 s = "aabbbcddddde"
-
 print(mostrepp(s))
 print(s)
 print(type(s))
