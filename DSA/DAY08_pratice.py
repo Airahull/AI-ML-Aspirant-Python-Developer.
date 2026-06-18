@@ -383,6 +383,7 @@ print(linear(lst,target,index))
     
 '''
 # tower of hanio very important recursive problem naturally recursive  ...............................................................................................
+
 def toh(n,scr,helper,destination):
     if n==1:
         print(f'from {scr} to {destination}')
