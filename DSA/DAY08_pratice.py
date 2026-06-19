@@ -381,7 +381,6 @@ target =88
 
 index=0
 print(linear(lst,target,index))
-    
 '''
 # tower of hanio very important recursive problem naturally recursive  ...............................................................................................
 
