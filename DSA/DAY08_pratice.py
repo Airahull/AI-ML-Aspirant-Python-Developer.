@@ -388,8 +388,8 @@ def toh(n,scr,helper,destination):
     if n==1:
         print(f'from {scr} to {destination}')
         return
-
     toh(n-1,scr,destination,helper)
+    
     print(f'from  {scr} to {destination}')
 
     toh(n-1,helper,scr,destination)
