@@ -378,6 +378,7 @@ def linear(lst,target,index =0):
         return linear(lst,target,index+1)
 lst =[1,2,3,4,5,4,5,6,4,78,52,99]
 target =88
+
 index=0
 print(linear(lst,target,index))
     
@@ -389,7 +390,7 @@ def toh(n,scr,helper,destination):
         print(f'from {scr} to {destination}')
         return
     toh(n-1,scr,destination,helper)
-    
+
     print(f'from  {scr} to {destination}')
 
     toh(n-1,helper,scr,destination)
