@@ -505,6 +505,7 @@ arr =[5,4,3,2,1,6]
 print(mergesort(arr))
 
 '''
+
 # optimal solutiion most optimal solution of most repeting character .........................
 
 def mostrepp(s):
