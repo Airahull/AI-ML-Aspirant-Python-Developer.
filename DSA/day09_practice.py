@@ -505,7 +505,6 @@ arr =[5,4,3,2,1,6]
 print(mergesort(arr))
 
 '''
-
 # optimal solutiion most optimal solution of most repeting character .........................
 
 def mostrepp(s):
@@ -520,7 +519,6 @@ def mostrepp(s):
             
             char=key #where char is the key of dictonary and value is the value of dictonary and we are comparing value with maxvalue if it is greater than maxvalue then we are updating maxvalue and char with key of dictonary
     return (char,maxvalue)  
-
 
 s = "aabbbcddddde"
 print(mostrepp(s))
