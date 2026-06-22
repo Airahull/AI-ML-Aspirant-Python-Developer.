@@ -477,7 +477,6 @@ arr =[5,4,3,2,1,6]
 print(brk(arr))
 '''
 '''
-
 def mergesort(arr):
     if len(arr)<=1:
         return arr
@@ -487,10 +486,10 @@ def mergesort(arr):
     right = mergesort(arr[mid:])
 
     return merge(left,right)
+
 def merge(left,right):
     result =[]
     i=j=0
-
     while i<len(left) and j < len(right):
         if left[i] < right[j]:
             result.append(left[i])
