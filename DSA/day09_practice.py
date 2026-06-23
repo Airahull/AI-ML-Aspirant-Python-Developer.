@@ -295,6 +295,7 @@ print(b)
 '''
 #Given a list of strings, sort them based on their length, from shortest to longest.
 # bby sorted function
+
 '''
 lst = ['rahul' , 'ritika' ,'uday', 'ram','om']
 nl =sorted(lst,key=len)
