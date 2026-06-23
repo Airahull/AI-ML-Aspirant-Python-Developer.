@@ -313,7 +313,6 @@ def sqrot(x):
     start = 0
     end= x//2
     res =1
-    
     while start <=end:
         mid= (start+end)//2
         sq =mid**2
