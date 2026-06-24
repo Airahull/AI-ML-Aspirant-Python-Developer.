@@ -254,6 +254,7 @@ print(lst)'''
 #Find the first occurrence of a target number in a sorted list that may contain duplicates using Binary Search.
 #for first and last occurrence..........................................................................................................
 '''
+
 def firstoccr(lst,target):
     lst = sorted(lst)
     start = 0
