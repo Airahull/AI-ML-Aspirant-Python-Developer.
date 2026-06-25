@@ -183,6 +183,7 @@ print(merge2)'''
 
 #Given a list of integers, find the number of distinct pairs $(a, b)$ such that $a+b = K$...........................................................
 '''
+
 def chkpair(lst,target):
    element = set()
    pairs =set()
