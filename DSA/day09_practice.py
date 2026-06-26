@@ -65,7 +65,6 @@ newmarks={ }
 for subject,mark in marks.items():
     if mark >90:
         print(subject)'''
-
 #Given a list with duplicates, return a new list containing only the unique elements in the order of their first appearance.
 # by for loop by membership operator it takes alot of time 
 '''
