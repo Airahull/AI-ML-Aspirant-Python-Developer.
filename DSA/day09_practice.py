@@ -78,7 +78,6 @@ print(lst1)
 print(nl)'''
 #by set() constructor it gaves a ideal solution 
 '''
-
 lst=[1,4,2,3,2,21,3,4,4,2,4,42,1,10]
 nl=set()
 unique=[]
@@ -130,7 +129,7 @@ def trsum(lst,k):
 lst=[1,2,3,4,5,4,3,2,9]
 target = 12
 trsum(lst,target)  
-         
+
 '''
 #recomended and best method imp'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 #using set
