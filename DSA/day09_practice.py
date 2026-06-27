@@ -59,6 +59,7 @@ print(lst2)
 print(list(lst1.intersection(lst2)))
 lst3=[ num for num in set(lst1)&set(lst2)]
 
+
 #Iterate through a dictionary and print only the keys whose values are greater than $10$.
 marks={'english' :87,'maths' : 99 , 'science' : 92,'gk':88,'sst' :90}
 newmarks={ }
