@@ -49,7 +49,6 @@ print(dict(Counter(text2)))
 print(Counter(text))
 print(type(text2))
 
-
 #Given two lists, find all the common elements between them.
 lst1=[1,2,34,4,5,6,7]
 lst2=[2,4,5,0,9,8,34]
