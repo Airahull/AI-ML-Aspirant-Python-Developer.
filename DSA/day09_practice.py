@@ -22,6 +22,7 @@ print(help(list))'''
 
 # super method in inheritance ''''''''''''''''''''''''''''''
 '''
+
 class parent:
     def prntmeth(self):
         print('parent method invoke from parent class ')
