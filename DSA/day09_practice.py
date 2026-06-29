@@ -16,7 +16,6 @@ print(emp1.name)
 print(emp1.id)
 print(emp1.salary)
 print(emp1.__dict__)
-
 #it return dictonary of class attributes 
 #help() method 
 print(help(list))'''
