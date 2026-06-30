@@ -10,7 +10,7 @@ class emp:
         self.name =name
         self.id = id
         self.salary =salary
-        
+
 emp1 = emp('Rahul' , 23 , 250000)
 print(emp1.name)
 print(emp1.id)
@@ -22,7 +22,6 @@ print(help(list))'''
 
 # super method in inheritance ''''''''''''''''''''''''''''''
 '''
-
 class parent:
     def prntmeth(self):
         print('parent method invoke from parent class ')
