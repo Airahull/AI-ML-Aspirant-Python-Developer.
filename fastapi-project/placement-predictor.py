@@ -12,7 +12,6 @@ class StudentData(BaseModel):
 def welcome():
     return {"status": "Day 1 Complete", "message": "Rahul's AI Core is Online"}
 
-
 @app.post("/predict")
 
 def predict_placement(data: StudentData):
