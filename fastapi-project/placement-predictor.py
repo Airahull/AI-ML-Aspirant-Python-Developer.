@@ -13,7 +13,6 @@ def welcome():
     return {"status": "Day 1 Complete", "message": "Rahul's AI Core is Online"}
 
 @app.post("/predict")
-
 def predict_placement(data: StudentData):
     # This is where your AI 'Math' will go later this all use a swagger UI we need to add /docs in our link for ui and we will use that ui to test our api and then we will use that data to predict the price of the product. For now, we will just return a dummy prediction based on the input data.
     if data.gpa > 8.0 and data.projects_completed > 5:
