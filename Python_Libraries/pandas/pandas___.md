@@ -1,4 +1,6 @@
 
+Some theory about pandas 
+
 📊 What is Pandas?
 
 Pandas is a powerful Python library used for:
