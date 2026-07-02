@@ -3,6 +3,7 @@ from fastapi import FastAPI
 app = FastAPI()
 # it is a simple get request for checking api is working or not .
 # it is a static route (in which value doesnt change ).
+
 @app.get("/") 
 def home():
     return {"message ":"welcome to the ecomerce fastapi project"} # it is a simple get request for checking api is working or not.
