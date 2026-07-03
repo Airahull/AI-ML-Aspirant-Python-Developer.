@@ -8,7 +8,6 @@ NumPy (Numerical Python) is a powerful Python library used for numerical computa
 It provides a high-performance multidimensional array object (ndarray) and tools to perform mathematical operations on large datasets efficiently.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 Key Features of NumPy
-
 1.Multidimensional Arrays
 Faster and more efficient than Python lists
 Example: 1D, 2D, 3D arrays
