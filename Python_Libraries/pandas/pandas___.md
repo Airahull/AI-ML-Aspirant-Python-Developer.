@@ -10,7 +10,6 @@ Data analysis
 Data cleaning
 
 It works mainly with structured data (tables like Excel).
-
 👉 Built on top of:
 
 NumPy (for fast calculations)
