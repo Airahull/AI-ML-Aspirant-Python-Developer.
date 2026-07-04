@@ -228,7 +228,6 @@ l2.insert_end(2)
 l2.insert_end(30)
 l2.insert_end(5)
 l2.insert_end(2)
-
 l2.display()
 
 
