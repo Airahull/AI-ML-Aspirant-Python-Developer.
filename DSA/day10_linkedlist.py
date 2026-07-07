@@ -192,7 +192,6 @@ ll.display()
 print("-------------------------------------------")
 
 ll.deletee(20)
-
 print("after deleting 20 from linkedlist")
 ll.display()
 print("-------------------------------------------")
