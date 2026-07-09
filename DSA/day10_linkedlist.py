@@ -208,7 +208,6 @@ print("after removing duplicate ")
 ll.display()
 print("-------------------------------------------")
 ll.reverse()
-
 print("after reverse a linkedlist ")
 ll.display()
 print("-------------------------------------------")
