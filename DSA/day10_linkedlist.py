@@ -206,6 +206,7 @@ ll.remove_dup_sorted()
 print("after removing duplicate ")
 
 ll.display()
+
 print("-------------------------------------------")
 ll.reverse()
 print("after reverse a linkedlist ")
