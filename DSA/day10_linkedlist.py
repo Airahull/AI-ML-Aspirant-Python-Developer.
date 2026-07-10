@@ -210,6 +210,7 @@ ll.display()
 print("-------------------------------------------")
 ll.reverse()
 print("after reverse a linkedlist ")
+
 ll.display()
 print("-------------------------------------------")
 print("head of linkedlist is :",ll.head.data)
