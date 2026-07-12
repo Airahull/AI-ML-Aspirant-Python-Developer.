@@ -389,8 +389,7 @@ def toh(n,scr,helper,destination):
     toh(n-1,scr,destination,helper)
     print(f'from  {scr} to {destination}')
 
-    toh(n-1,helper,scr,destination)
-    
+    toh(n-1,helper,scr,destination)  
 toh(3,'source','helper','destination')
 # this is basically a naturally recursive problem and it is very imp question for coding interview and it is also a good question for understanding the concept of recursion and how it works in a problem solving approach.
 a=(1,2,3)
