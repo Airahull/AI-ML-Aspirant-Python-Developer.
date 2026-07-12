@@ -336,7 +336,6 @@ for key,value in res.items():
 print(number,'occure', maxfreq,'times')
 
 #more pythonic way but not optimal ................................................................
-
 from collections import Counter#importing counter class from collection module to count frequency of elements in array
 
 arr=[1,2,3,4,3,4,5,32,1,2,3,3,3,3]
