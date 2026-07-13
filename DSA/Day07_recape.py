@@ -340,7 +340,6 @@ from collections import Counter#importing counter class from collection module t
 
 arr=[1,2,3,4,3,4,5,32,1,2,3,3,3,3]
 k=int(input('how many elements freq you wants to check :'))
-
 freq =Counter(arr) #creating counter object which will count frequency of each element in array and store it in a dictionary like format where key is element and value is its frequency
 occurance=freq.most_common(k)
 print(f'frequency {occurance} occurance ')
