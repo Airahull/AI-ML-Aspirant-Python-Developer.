@@ -343,6 +343,7 @@ k=int(input('how many elements freq you wants to check :'))
 
 freq =Counter(arr) #creating counter object which will count frequency of each element in array and store it in a dictionary like format where key is element and value is its frequency
 occurance=freq.most_common(k)
+
 print(f'frequency {occurance} occurance ')
 #its complexity is O(nlogk) because of sorting in most_common method and space complexity is O(n) because of storing frequency of all elements in dictionary
 # freq for kth elements using heap ........................... top mnc s question ........
