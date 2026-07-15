@@ -27,7 +27,6 @@ engine.stop()
 import pyttsx3
 import json
 engine =pyttsx3.init()
-
 engine.setProperty('rate',100)
 engine.setProperty('volume',10)
 with open('r.json' ,'r') as f:
