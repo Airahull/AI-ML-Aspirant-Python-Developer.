@@ -21,7 +21,6 @@ engine.runAndWait()
 # Stop the engine (important for clean shutdown)
 engine.stop()
 '''
-
 # if we run code in vs code it only speak first sentence 
 '''
 import pyttsx3
