@@ -17,7 +17,6 @@ engine.say(text)
 
 # Run the engine and wait for the speech to complete
 engine.runAndWait()
-
 # Stop the engine (important for clean shutdown)
 engine.stop()
 '''
