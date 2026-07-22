@@ -215,7 +215,6 @@ print("-------------------------------------------")
 print("head of linkedlist is :",ll.head.data)
 
 print("-------------------------------------------")
-
 print('mid element of your linked list is',ll.middle())
 print("-------------------------------------------")
 
