@@ -233,7 +233,6 @@ l2.insert_end(2)
 
 l2.display()
 l2.remove_dup_sorted() #  it not worked because of list is not sorted it only check adjusent element '''''''''
-
 l2.display()
 
 l2.remove_dup_unsorted()
