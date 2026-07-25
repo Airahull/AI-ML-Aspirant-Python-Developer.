@@ -20,7 +20,6 @@ print(emp1.__dict__)
 #help() method 
 print(help(list))'''
 
-
 # super method in inheritance ''''''''''''''''''''''''''''''
 '''
 class parent:
