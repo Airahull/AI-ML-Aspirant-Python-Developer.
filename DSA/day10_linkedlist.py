@@ -229,6 +229,7 @@ l2.insert_end(30)
 l2.insert_end(5)
 l2.insert_end(2)
 
+
 #for displaying linkedlist ..........
 l2.display()
 l2.remove_dup_sorted() #  it not worked because of list is not sorted it only check adjusent element '''''''''
