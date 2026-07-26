@@ -18,7 +18,6 @@ print(emp1.__dict__)
 #it return dictonary of class attributes 
 #help() method 
 print(help(list))'''
-
 # super method in inheritance ''''''''''''''''''''''''''''''
 '''
 class parent:
