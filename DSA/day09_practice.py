@@ -39,6 +39,7 @@ print(chl.prntmeth())'''
 '''
 from collections import Counter
 dic ={}
+
 text = 'python programming'
 text2=text.replace(" ","").lower()
 print(dict(Counter(text2)))
