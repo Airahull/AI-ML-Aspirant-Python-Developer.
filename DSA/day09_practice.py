@@ -68,7 +68,6 @@ for subject,mark in marks.items():
 #Given a list with duplicates, return a new list containing only the unique elements in the order of their first appearance.
 # by for loop by membership operator it takes alot of time 
 '''
-
 lst1=[1,4,2,3,2,21,3,4,4,2,4,42,1,10]
 nl=[]
 for num in lst1:
