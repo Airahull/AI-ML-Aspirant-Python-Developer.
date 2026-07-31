@@ -133,6 +133,7 @@ trsum(lst,target)
 '''
 #recomended and best method imp'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 #using set
+
 '''
 def chksum(lst,target):
     element = set()
