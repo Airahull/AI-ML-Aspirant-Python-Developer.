@@ -160,7 +160,6 @@ print(dict1)
 print(dict2)
 print(merge)
 '''
-
 # by update method
 '''
 dict1 = {'a': 10, 'b': 20, 'c': 30}
