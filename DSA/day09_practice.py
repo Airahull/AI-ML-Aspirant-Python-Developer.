@@ -208,7 +208,6 @@ print(nl)
 print(nl.keys())
 print(nl.values())
 print(nl.items())
-
 #by loop ''''''''''''''''''''''''''''''''
 res={}
 for key,value in lst:
