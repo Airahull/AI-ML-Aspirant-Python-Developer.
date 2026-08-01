@@ -168,6 +168,7 @@ merge2 = dict1.copy()
 merge2.update(dict2)
 print(merge2)
 '''
+
 #by dictonary unpack method (**dictname , **dict2name)
 '''
 dict1 = {'a': 10, 'b': 20, 'c': 30}
