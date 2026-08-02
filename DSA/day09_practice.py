@@ -230,7 +230,6 @@ print(dic.values())
 print(res)
 print(res.keys())
 print(res.values())
-
 #by list comphersion 
 nd = { value:key for key ,value in dic.items()}
 print(nd)
