@@ -214,7 +214,6 @@ for key,value in lst:
     res[key]=value
 print(res)
 print(type(res))
-
 #by list comphersion '''''''''''''''''''''''''''''''
 ans = {key:value for key,value in lst}
 print(ans)
