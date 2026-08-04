@@ -198,6 +198,7 @@ k=7
 a=chkpair(lst,k)
 print(a)
 '''
+
 #Write a program to convert a list of tuples (key, value) into a dictionary.
 '''
 lst = [(1,2),(6,4),(5,6),(7,8)]
