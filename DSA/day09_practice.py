@@ -217,7 +217,6 @@ print(type(res))
 ans = {key:value for key,value in lst}
 print(ans)
 '''
-
 #Given a dictionary, invert the mapping (keys become values and values become keys). Assume all values are unique.
 '''
 dic = {'b': 200, 'c': 300, 'd': 40}
@@ -247,7 +246,6 @@ for i in range(n):
         if lst[j] > lst[j+1]:
             lst[j],lst[j+1]=lst[j+1],lst[j]
 print(lst)'''
-
 #Find the first occurrence of a target number in a sorted list that may contain duplicates using Binary Search.
 #for first and last occurrence..........................................................................................................
 '''
