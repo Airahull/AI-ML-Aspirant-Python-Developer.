@@ -198,7 +198,6 @@ k=7
 a=chkpair(lst,k)
 print(a)
 '''
-
 #Write a program to convert a list of tuples (key, value) into a dictionary.
 '''
 lst = [(1,2),(6,4),(5,6),(7,8)]
@@ -218,6 +217,7 @@ print(type(res))
 ans = {key:value for key,value in lst}
 print(ans)
 '''
+
 #Given a dictionary, invert the mapping (keys become values and values become keys). Assume all values are unique.
 '''
 dic = {'b': 200, 'c': 300, 'd': 40}
