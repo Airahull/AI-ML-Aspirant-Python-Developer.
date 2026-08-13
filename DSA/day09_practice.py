@@ -336,7 +336,6 @@ print(lst)
 n=len(lst)
 print(lst[n-k])
 '''
-
 #Sort a list of numbers based on their frequency (count of occurrences).................................
 '''
 from collections import Counter
@@ -348,8 +347,6 @@ nl=dict(Counter(lst))
 print(nl)
 print(type(nl))
 '''
-
-
 #Given a rotated sorted array, find a target element. (The hardest problem this week!).......................................
 '''
 def roatarry(arr , target):
