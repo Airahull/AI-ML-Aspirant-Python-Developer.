@@ -419,10 +419,8 @@ def insertion(array):
     return array
 
 array = [4,5,6,3,2,1,99]
-print(insertion(array))
-        
+print(insertion(array))     
 '''
-
 #quick sort algorithm...............................................................
 '''
 def quik(arr):
