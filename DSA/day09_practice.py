@@ -441,6 +441,7 @@ print(quik(arr))
 "Find the middle element of a linked list using the fast and slow pointer technique.	Use two pointers, where one moves twice as fast as the other. When the faster pointer reaches the end, the slower pointer will be at the middle."
 # merge sort ................................................
 '''
+
 def brk(arr):
     if len(arr)<=1:
         return arr
