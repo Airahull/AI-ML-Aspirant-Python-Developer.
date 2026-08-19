@@ -461,7 +461,6 @@ def mergsort(left,right):
     result += left[i:]
     result += right[j:]
     return result
-
 arr =[5,4,3,2,1,6]
 print(brk(arr))
 '''
