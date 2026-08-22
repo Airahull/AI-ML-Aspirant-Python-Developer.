@@ -15,4 +15,5 @@ for page_num in range(len(doc)):
     pix.save(os.path.join(output_folder, f"{page_num + 1}.jpg"))
 
 doc.close()
+
 print("Sab pages alag ho gaye! Check mcafile folder")
