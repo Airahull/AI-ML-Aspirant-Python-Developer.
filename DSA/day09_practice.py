@@ -371,6 +371,7 @@ def roatarry(arr , target):
     return -1
 
 arr = [4,5,6,7,0,1,2]
+
 target = 0
 a= roatarry(arr,target)
 print(a)
