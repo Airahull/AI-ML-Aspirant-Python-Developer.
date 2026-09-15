@@ -377,7 +377,6 @@ a= roatarry(arr,target)
 print(a)
 '''
 # binary search using recursion ............................
-
 '''
 def binaryrec(arr,target,start,end):
     mid =(start +end)//2
